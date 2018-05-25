@@ -22,3 +22,17 @@ mergesort/\.project
 deikstra/\.project
 
 deikstra/\.cproject
+
+block_coloring/\.cproject
+
+block_coloring/\.project
+
+block_coloring/\.settings/
+
+coloring/\.cproject
+
+coloring/\.project
+
+coloring/\.settings/
+
+python_graph/\.ipynb_checkpoints/
